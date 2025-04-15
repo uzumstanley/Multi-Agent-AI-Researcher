@@ -96,6 +96,6 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For queries or contributions, feel free to reach out:
-- **Author**: Siddharth Kharche
+- **Author**: Stanley Ekene Uzum
 - **Email**: siddukharche04@gmail.com
 - **GitHub**: [siddharth-Kharche](https://github.com/siddharth-Kharche)
