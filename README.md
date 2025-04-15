@@ -98,4 +98,4 @@ This project is licensed under the **MIT License**.
 For queries or contributions, feel free to reach out:
 - **Author**: Stanley Ekene Uzum
 - **Email**: stanleyuzum@gmail.com
-- **GitHub**: [siddharth-Kharche](https://github.com/uzumstanley)
+- **GitHub**: [uzumstanley](https://github.com/uzumstanley)
